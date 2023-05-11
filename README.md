@@ -1,2 +1,2 @@
-# calculadora
-Calculadora creada con JavaScript.
+# Calculadora
+Calculadora creada con HTML, CSS y JavaScript.
